@@ -50,4 +50,4 @@ Results Summary
 Stage	Model	Description	RMSE
 1️. Baseline	Default AutoGluon fit	1.41
 2️. Feature Engineered	Added datetime & categorical features	0.46
-3️. Hyperparameter Tuned	LightGBM + XGBoost + CatBoost Ensemble	34.98
+3️. Hyperparameter Tuned	LightGBM + XGBoost + CatBoost Ensemble	0.475
